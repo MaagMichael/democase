@@ -1,0 +1,3 @@
+example of middleware e.g. auth with login and protected routes
+
+search params and state in URL (usecase vintageclub over min. 2 levels)
