@@ -10,14 +10,14 @@ const blogs = [
     
   {
       "id": "2",
-      "author": "Mohamed",
+      "author": "Max",
       "content": "blog 2 content is here",
     
     },
     
   {
       "id": "3",
-      "author": "Amine",
+      "author": "Mathilde",
       "content": "blog 3 content is here",
     
     }
