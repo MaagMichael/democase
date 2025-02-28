@@ -12,6 +12,10 @@ export default function Home() {
         http://localhost:3000/api/blog/1
       </Link>
       <br />
+      <Link href="http://localhost:3000/api/blog/100" target="_blank">
+        http://localhost:3000/api/blog/100 not found error 404
+      </Link>
+      <br />
       <Blog />
       {/* ######################################################## */}
 

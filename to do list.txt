@@ -1,3 +1,4 @@
+
 fetch data via server actions vs API routes
 https://www.wisp.blog/blog/server-actions-vs-api-routes-in-nextjs-15-which-should-i-use
 
@@ -17,6 +18,10 @@ webhooks (example payments by LemonSqueezy or Stripe )
 
 search params and state in URL (usecase vintageclub over min. 2 levels)
 
-done:
+#################################### DONE ####################################
+
 example blog app with dynamic routing and server side rendering
 endpoints for blog data fetch via API routes
+
+why src/app/api/route.ts or src/api/route.ts ? -> only inside app folder
+https://nextjs.org/docs/app/building-your-application/routing/route-handlers
