@@ -1,3 +1,22 @@
+fetch data via server actions vs API routes
+https://www.wisp.blog/blog/server-actions-vs-api-routes-in-nextjs-15-which-should-i-use
+
+SAAS techniqies like:
+- payments with stripe and web hooks
+- prisma to connect to a database
+- database SQL and No SQL (Supabase, MongoDB, PostgreSQL, sqLite, MySQL, MariaDB)
+- authentication with Clerk, Firebase Auth, Auth0, or Auth.js
+- emailing (emailJS, SendGrid, Postmark, Mailgun, or Amazon SES)
+- data fetch with revalidatePath and caching
+
 example of middleware e.g. auth with login and protected routes
 
+example Jason web token as session management
+
+webhooks (example payments by LemonSqueezy or Stripe )
+
 search params and state in URL (usecase vintageclub over min. 2 levels)
+
+done:
+example blog app with dynamic routing and server side rendering
+endpoints for blog data fetch via API routes
